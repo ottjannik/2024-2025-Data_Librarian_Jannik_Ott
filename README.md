@@ -4,7 +4,7 @@
 
 ----
 
-## Inhaltsverzeichnis | Table of Contents
+## Inhaltsverzeichnis
 
 1. [Modul 1: Hacken und experimentieren mit Daten](#modul-1)
 2. [Modul 2: Daten strukturieren - beschreiben - wiederauffinden](#modul-2)
@@ -30,3 +30,28 @@ Inhalt:
 - Nutzung von APIs
 - Automatisierung
 - Computational Thinking
+
+----
+
+## Modul 2: Daten strukturieren - beschreiben - wiederauffinden
+
+Inhalt: 
+- Strukturierte Daten und Metadaten 
+    - Datenexport aus öffentlichen Web-Quellen
+    - Datenformate
+    - Transformation von Datenformaten (z.B. über Python-Skripte)
+- Suchmaschinentechnologie, Information Retrieval
+    - Einführung in das Retrieval mit PyTerrier
+    - Datenimport und Indexierung
+    - Suchmöglichkeiten in PyTerrier
+
+----
+
+## Modul 3: Daten analysieren und darstellen
+
+Inhalt:
+Praktische Einführung in Methoden und Begriffe: 
+- der deskriptiven Statistik (Mittelwerte, Varianz, Korrelation, Häufigkeiten)
+- der schließenden Statistik (Verteilungen, Stichproben, Variablen, Mittelwerttests)
+- des maschinellen Lernens (überwachtes Lernen, unüberwachtes Lernen, Reinforcement, Mustererkennung, Clustering, Klassifikation, Dimensionsreduktion)
+- der Datenvisualisierung (Tabellen, Diagrammtypen)
