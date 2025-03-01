@@ -11,3 +11,5 @@ Modul 4: Forschungs(daten)prozess verstehen und unterstützen | 10. März bis 11
 Modul 5: Nachhaltig und verantwortungsvoll handeln im Umgang mit Daten | 28. April bis 06. Juni 2025
 
 Modul 6: Projektmodul mit Abschlussveranstaltung | 11. Juni bis 29. August 2025
+
+[Modulhandbuch](https://www.th-koeln.de/mam/downloads/deutsch/weiterbildung/zbiw/angebote/zbiw_modulhandbuch_zk_data_librarian_2024_25.pdf)
